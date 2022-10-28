@@ -45,4 +45,9 @@ const countDownClock = (number = 100, format = "seconds") => {
   }
 };
 
-countDownClock(20, "days");
+/*
+  start countdown
+  enter number and format
+  days, hours, minutes or seconds
+*/
+countDownClock(95, "days");
